@@ -1,3 +1,7 @@
+---
+title: Wave Breaker
+---
+
 # Table of Contents<!-- omit in toc -->
 
 - [Introduction](#introduction)
