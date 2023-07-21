@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Wave Breaker
+description: True-peak limiter plug-in by Press Play.
+github:
+  is_project_page: false
