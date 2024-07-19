@@ -1,6 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
 - jekyll-remote-theme
+- jekyll-include-cache
 title: Wave Breaker
 description: True-peak limiter plug-in by Press Play.
 github:
